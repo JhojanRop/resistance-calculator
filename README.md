@@ -32,12 +32,11 @@ This React-based web application allows you to calculate the resistance of an el
 
 ## Link
 
-~~[Resistance Calculator - Visit the application]("#")~~
-_Available soon_
+[Resistance Calculator - Visit the application]("https://jhojanrop.github.io/resistance-calculator/")
 
 ## Contributions
 
-Contributions are welcome! If you encounter any issues or have ideas to improve the application, please open an [issue](https://github.com/yourusername/yourproject/issues).
+Contributions are welcome! If you encounter any issues or have ideas to improve the application, please open an [issue](https://github.com/JhojanRop/resistance-calculator/issues).
 
 ## License
 
